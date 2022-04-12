@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ifas87
 - 👀 I’m interested in ... building software like bots and programs.
-- 🌱 I’m currently learning ... a multitudes of thing under Computer Systems Engineering
+- 🌱 I’m currently learning ... Flutter and Kotlin for app development.
 - 📫 How to reach me ... through my main email safi.sharieff@gmail.com
